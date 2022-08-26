@@ -23,7 +23,7 @@ public class BiliMain {
 
     public static void main(String[] args) {
 
-        VersionInfo.printVersionInfo();
+        //VersionInfo.printVersionInfo();
         //每日任务65经验
 
         if (args.length > 0) {
